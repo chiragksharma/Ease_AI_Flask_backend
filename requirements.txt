@@ -4,3 +4,5 @@ python-dotenv
 openai
 PyJWT
 Flask-SQLAlchemy
+requests
+rembg
